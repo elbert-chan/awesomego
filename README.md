@@ -1,2 +1,3 @@
 # awesomego
-my awesome go libs
+
+## [websocket](./websocket.md)
