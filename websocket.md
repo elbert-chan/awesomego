@@ -5,7 +5,5 @@
 具体选型过程，参考文章 [how to build websockets in go](https://yalantis.com/blog/how-to-build-websockets-in-go/)
 （[中文版](https://tonybai.com/2019/09/28/how-to-build-websockets-in-go/)）。
 
----
-
-- [gorilla/websocket](https://github.com/gorilla/websocket)
-- [gobwas/ws](https://github.com/gobwas/ws)
+- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
+- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
