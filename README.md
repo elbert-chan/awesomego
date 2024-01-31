@@ -1,5 +1,5 @@
 # awesome-go
 
-## [http](./http.md)
-## [websocket](./websocket.md)
+- [HTTP Clients](./http_clients.md)
+- [Websocket](./websocket.md)
 
