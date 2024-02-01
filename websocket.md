@@ -7,3 +7,4 @@
 
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
+- [melody](https://github.com/olahol/melody) - Minimalist websocket framework for Go.
