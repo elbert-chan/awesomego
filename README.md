@@ -1,5 +1,6 @@
 # awesome-go
 
+- [Goroutines](./goroutines.md)
 - [Date & Time](./date_time.md)
 - [HTTP Clients](./http_clients.md)
 - [Websocket](./websocket.md)
@@ -7,4 +8,4 @@
 - [Command Line](./command_line.md)
 - [Configuration](./configuration.md)
 - [Messaging](./messaging.md)
-- [Goroutines](./goroutines.md)
+- [Email](./email.md)
