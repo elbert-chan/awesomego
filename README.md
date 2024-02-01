@@ -11,6 +11,7 @@
 - [Configuration](./configuration.md)
 - [Messaging](./messaging.md)
 - [Email](./email.md)
+- [Logging](./logging.md)
 - [Testing](./testing.md)
 - [Financial](./financial.md)
 - [Distributed Systems](./distributed_systems.md)
