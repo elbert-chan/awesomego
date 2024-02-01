@@ -9,3 +9,4 @@
 - [Configuration](./configuration.md)
 - [Messaging](./messaging.md)
 - [Email](./email.md)
+- [Testing](./testing.md)
