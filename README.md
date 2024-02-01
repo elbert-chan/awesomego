@@ -7,3 +7,4 @@
 - [Command Line](./command_line.md)
 - [Configuration](./configuration.md)
 - [Messaging](./messaging.md)
+- [Goroutines](./goroutines.md)
