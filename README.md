@@ -1,5 +1,6 @@
 # awesome-go
 
+- [Style Guides](./style_guides.md)
 - [Goroutines](./goroutines.md)
 - [Date & Time](./date_time.md)
 - [HTTP Clients](./http_clients.md)
