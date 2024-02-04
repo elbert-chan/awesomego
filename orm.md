@@ -1,5 +1,6 @@
 # ORM
 
-- [sql](https://pkg.go.dev/database/sql) - Package sql provides a generic interface around SQL (or SQL-like) databases.
+Libraries that implement Object-Relational Mapping or datamapping techniques.
+
 - [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly.
 - [ent](https://github.com/ent/ent) - An entity framework for Go.
