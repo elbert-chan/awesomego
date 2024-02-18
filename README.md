@@ -47,7 +47,7 @@ Libraries for configuration parsing.
 ### NoSQL Database Drivers
 
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - Official MongoDB driver for the Go language.
-- [Qmgo](https://github.com/qiniu/qmgo) - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo. 
+- [qmgo](https://github.com/qiniu/qmgo) - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo. 
 
 ### Search and Analytic Databases
 
