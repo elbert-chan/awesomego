@@ -62,6 +62,7 @@ Libraries for working with dates and times.
 Packages that help with building Distributed Systems.
 
 - [go-kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [kratos-mono-repo](https://github.com/codingcn/kratos-mono-repo) - kratos mono repo.
 - [temporal ](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple. Go SDK.
